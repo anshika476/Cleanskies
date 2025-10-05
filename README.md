@@ -60,8 +60,8 @@ The app delivers:
 ## 📡 Data Sources
 
 - 🛰️ **TEMPO (NASA)**: [Hourly satellite-based air pollution measurements  ](https://www.earthdata.nasa.gov/data/instruments/tempo)
-- ☀️ **Weather Data**: [Air-Now](https://www.airnow.gov/) , [OpenAQ](https://openaq.org/) 
-- **MERRA2 data**: (https://search.earthdata.nasa.gov/search?q=M2IMNPASM)
+- 🏭 **Ground Stations**: [AirNow](https://docs.airnowapi.org/), [OpenAQ](https://openaq.org/)   
+- ☀️ **Weather Data**: [MERRA2](https://search.earthdata.nasa.gov/search?q=M2IMNPASM)
 - **Nasa Pandors Data**: (https://pandora.gsfc.nasa.gov/)
 
 
