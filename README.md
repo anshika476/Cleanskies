@@ -8,11 +8,11 @@ The app aims to **notify users of poor air quality** and support **public health
 
 You can download the full project presentation here:
 
-[📥 Download Presentation (PDF)](./From%20earthdata%20to%20action_%20(4).pdf)
+[📥 Download Presentation (PDF)](./assests/From%20earthdata%20to%20action_%20(4).pdf)
 
 ## 🎥 Demo Video
 
-[📥 Download Demo Video](./cleanskies.mp4)
+[📥 Download Demo Video](./assests/cleanskies.mp4)
 
 ## 🚀 Project Overview
 
