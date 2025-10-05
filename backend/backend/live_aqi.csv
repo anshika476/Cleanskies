@@ -1,0 +1,7 @@
+DateObserved,ReportingArea,StateCode,ParameterName,AQI,Category
+2025-10-05,New York City Region,NY,O3,19,Good
+2025-10-05,New York City Region,NY,PM2.5,76,Moderate
+2025-10-05,S Central LA CO,CA,O3,10,Good
+2025-10-05,S Central LA CO,CA,PM2.5,60,Moderate
+2025-10-05,Chicago,IL,O3,35,Good
+2025-10-05,Chicago,IL,PM2.5,61,Moderate

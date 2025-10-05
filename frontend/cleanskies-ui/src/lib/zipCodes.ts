@@ -1,0 +1,26 @@
+export const zipCodeOptions = [
+  { value: "10001", label: "New York City, NY" },
+  { value: "02108", label: "Boston, MA" },
+  { value: "19102", label: "Philadelphia, PA" },
+  { value: "20001", label: "Washington, D.C." },
+  { value: "60601", label: "Chicago, IL" },
+  { value: "48226", label: "Detroit, MI" },
+  { value: "55401", label: "Minneapolis, MN" },
+  { value: "64106", label: "Kansas City, MO" },
+  { value: "77002", label: "Houston, TX" },
+  { value: "75201", label: "Dallas, TX" },
+  { value: "30303", label: "Atlanta, GA" },
+  { value: "70112", label: "New Orleans, LA" },
+  { value: "33128", label: "Miami, FL" },
+  { value: "90012", label: "Los Angeles, CA" },
+  { value: "94102", label: "San Francisco, CA" },
+  { value: "92101", label: "San Diego, CA" },
+  { value: "98104", label: "Seattle, WA" },
+  { value: "97204", label: "Portland, OR" },
+  { value: "80202", label: "Denver, CO" },
+  { value: "85003", label: "Phoenix, AZ" },
+  { value: "89101", label: "Las Vegas, NV" },
+  { value: "84111", label: "Salt Lake City, UT" },
+];
+
+export const zipValues = zipCodeOptions.map((z) => z.value);

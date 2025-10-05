@@ -1,0 +1,5 @@
+[
+  { "id": "1", "title": "PM2.5 levels rising in your area", "time": "2 minutes ago", "type": "warning" },
+  { "id": "2", "title": "New air quality report available", "time": "1 hour ago", "type": "info" },
+  { "id": "3", "title": "Sensor disconnected: Downtown station", "time": "3 hours ago", "type": "critical" }
+]
